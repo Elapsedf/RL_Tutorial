@@ -1,0 +1,6 @@
+<routes>
+	 <vType id="CarA" accel="2.5" decel="4.5" emergencyDecel="9.0" length="5" color="1,0,0" vClass="passenger"  minGap="0" maxSpeed="40" carFollowModel="IDM" />
+	 <vType id="CarB" accel="2.5" decel="4.5" emergencyDecel="9.0" length="5" color="1,1,0" vClass="passenger" maxSpeed="30" carFollowModel="IDM"/>
+	 <vType id="CarC" accel="2.5" decel="4.5" emergencyDecel="9.0" length="5" color="1,1,0" vClass="passenger" maxSpeed="30" carFollowModel="IDM"/>
+	<route id="route" edges="E5"/>
+</routes>
